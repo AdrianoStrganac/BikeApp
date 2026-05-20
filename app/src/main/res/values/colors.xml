@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#F3AB68FB</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navigation">#B2D993</color>
+    <color name="settings_dialog_background">#FFFFFF</color> <!-- Darker background -->
+    <color name="settings_dialog_text">#000000</color>
+    <color name="card_background">#98FA7A</color>
+    <color name="bike_item_background">#B9DB9D</color>
+    <color name="cart_background">#B9DB9D</color>
+    <color name="cart_background1">#DCC3DC</color>
+    <color name="cancel_button_text">#E9C1D1</color>
+    <color name="background_card">#525151</color>
+    <color name="outlined_button_text">#FF6200EE</color>
+
+    Color(0xFF6200EE)
+
+
+</resources>
